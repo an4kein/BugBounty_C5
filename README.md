@@ -9,5 +9,5 @@ My notes about bugbounty
 ### PDFs and Videos
 LevelUp 0x02 - Bug Bounty Hunter Methodology v3 - https://www.youtube.com/watch?v=Qw1nNPiH_Go
 
-[test](./PDFs/TBHM3 (p).pdf)
+[test](https://github.com/e-anakein/BugBounty_C5/blob/master/PDFs/TBHM3%20(p).pdf)
 
