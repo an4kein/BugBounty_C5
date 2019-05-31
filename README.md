@@ -7,5 +7,5 @@ My notes about bugbounty
 
 
 ### PDFs and Videos
-LevelUp 0x02 - Bug Bounty Hunter Methodology v3
+LevelUp 0x02 - Bug Bounty Hunter Methodology v3 - https://www.youtube.com/watch?v=Qw1nNPiH_Go
 
